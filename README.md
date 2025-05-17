@@ -1,9 +1,19 @@
-# Autonomous Vehicle Path Planner with Dynamic Obstacle Avoidance
+# 🚗 Autonomous Vehicle Path Planner (Upgraded)
 
-This project simulates a 2D autonomous vehicle navigating toward a goal while avoiding moving obstacles using A* and PID control.
+This upgraded version features:
+- 🔁 Real-time obstacle prediction
+- 🧠 Replanning with future obstacle positions
+- 🔍 Visual orientation and trail history
+- ⚙️ Designed for high-impact internships at Tesla, Lockheed, and Boeing
 
-## How to Run
-```
+## Run
+```bash
 pip install -r requirements.txt
 python main.py
 ```
+
+## Coming Soon
+- ✅ MPC (Model Predictive Control)
+- ✅ Real map import
+- ✅ Design document
+- ✅ Demo video
