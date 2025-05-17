@@ -5,6 +5,18 @@ This project implements a 2D autonomous vehicle path planner using Python. It si
 
 ---
 
+## Demonstration
+
+![Simulation Demo](assets/demo.gif)
+
+The system simulates a vehicle navigating toward a goal while predicting obstacle movement and updating its path in real time. The simulation includes:
+
+- Path updates every time step
+- Ghosted prediction overlays for obstacle trajectories
+- Directional arrows to indicate vehicle heading
+
+---
+
 ## Features
 
 - A* path planning in a 2D continuous environment
@@ -59,18 +71,6 @@ python main.py
 ```
 
 A live 2D simulation window will appear showing the vehicle, obstacles, and path updates.
-
----
-
-## Demonstration
-
-![Simulation Demo](assets/demo.gif)
-
-The system simulates a vehicle navigating toward a goal while predicting obstacle movement and updating its path in real time. The simulation includes:
-
-- Path updates every time step
-- Ghosted prediction overlays for obstacle trajectories
-- Directional arrows to indicate vehicle heading
 
 ---
 
