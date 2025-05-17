@@ -1,4 +1,4 @@
-# 🚗 Autonomous Vehicle Path Planner with Dynamic Obstacle Avoidance
+# Autonomous Vehicle Path Planner with Dynamic Obstacle Avoidance
 
 This project simulates a 2D autonomous vehicle navigating toward a goal while avoiding moving obstacles using A* and PID control.
 
