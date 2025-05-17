@@ -7,7 +7,9 @@ This project implements a 2D autonomous vehicle path planner using Python. It si
 
 ## Demonstration
 
-![Simulation Demo](assets/demo.gif)
+<p align="center">
+  <img src="assets/demo.gif" alt="Simulation Demo" width="80%">
+</p>
 
 The system simulates a vehicle navigating toward a goal while predicting obstacle movement and updating its path in real time. The simulation includes:
 
