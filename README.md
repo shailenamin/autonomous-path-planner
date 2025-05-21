@@ -76,12 +76,6 @@ A live 2D simulation window will appear showing the vehicle, obstacles, and path
 
 ---
 
-## Resume / Portfolio Summary
-
-> Developed a dynamic path planning simulation using A* search, PID control, and kinematic vehicle modeling. Implemented obstacle forecasting and real-time replanning to simulate autonomous navigation in constrained environments.
-
----
-
 ## Future Work
 
 - Upgrade to Model Predictive Control (MPC)
